@@ -1,15 +1,33 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+### Where I work
 
-### More Information
+DevOps Manager @ [GumGum](https://gumgum.com){:target="_blank"}
 
-A place to include any other types of information that you'd like to include about yourself.
+### Where I used to work
 
-### Contact me
+[Amazon/Ring](https://ring.com){:target="_blank"}, [TripStack/SixT4.io](http://www.tripstack.com){:target="_blank"}, [Top Hat](https://tophat.com){:target="_blank"}, [Firmex](https://www.firmex.com){:target="_blank"}, [RIM/BlackBerry](http://web.blackberry.com){:target="_blank"}
 
-[email@domain.com](mailto:email@domain.com)
+### Areas of expertise
+
+DevOps processes, System Design, Team Building, Mentorship, SDLC
+
+### Tech I'm passionate about
+
+Unix, Python, Docker, Kubernetes, Terraform, Machine Learning, Robotics, Embedded Systems
+
+### Moto
+
+*Through automation, anything is possible.*
+
+### CV/Resume
+
+[Link to PDF]({{ site.baseurl }}/resume.pdf){:target="_blank"}
+
+### Contact
+
+`mechtrondev[at]gmail.com`
