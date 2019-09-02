@@ -14,7 +14,7 @@ title: "WLAD Industry Updates 2019-06-13"
 
 ### Industry update slides
 
-You can view our WLAD #2 Meetup slides that include our new Industry Updates [here](https://slides.com/coreygale/wlad-2#/4){:target="_blank"}
+You can view our WLAD #2 Meetup slides, with our new *Industry Updates* pre-loaded [here](https://slides.com/coreygale/wlad-2#/4){:target="_blank"}
 
 ### Meetup event link
 
