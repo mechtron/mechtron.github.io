@@ -14,11 +14,11 @@ DevOps Manager @ [GumGum](https://gumgum.com){:target="_blank"}
 
 ### Areas of expertise
 
-DevOps processes, System Design, Team Building, Mentorship, SDLC
+DevOps processes, system design, team building, mentorship, SDLC
 
 ### Tech I'm passionate about
 
-Unix, Python, Docker, Kubernetes, Terraform, Machine Learning, Robotics, Embedded Systems
+Unix, Python, Docker, Kubernetes, Terraform, machine learning, robotics, embedded systems
 
 ### Moto
 
