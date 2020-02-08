@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WLAD Industry Updates 2019-06-13"
+title: "West LA DevOps #2: Industry Updates (new!), The Geodesic Shell & Migrating to Prometheus"
 ---
 
 [Brian Tai](https://www.linkedin.com/in/briantai35/){:target="_blank"} and I hosted the 2nd installment of [West LA DevOps Meetup](https://www.meetup.com/West-LA-DevOps/events/261342518/){:target="_blank"} tonight where we introduced a new segment called "Industry Updates". In this experiment, we update our attendees on what happened in the world of DevOps since the last time we met.
