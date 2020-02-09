@@ -5,7 +5,7 @@ title: "West LA DevOps #5: Industry Updates & How Improper Versioning Affects Sy
 
 Last night I had the pleasure of hosting the 5th installment of West LA DevOps at GumGum HQ in beautiful Santa Monica, CA. Semantic Versioning (v2.0.0, to be specific) was the hot topic and [Julian Gindi](https://github.com/JulianGindi){:target="_blank"} (Senior DevOps Engineer @ GumGum) did an excellent job articulating why sane versioning is vital for long-term system stability, agility and security. Julian also demoed his recently open-sourced tool [auto-semver](https://github.com/JulianGindi/auto-semver){:target="_blank"} which makes auto-versioning of artifacts in CI environments a breeze to implement. Check it out!
 
-We also had our 4th "Industry Updates" segment where I provided a concise overview of some of the major happenings in DevOps and software in general. Check out our slides below for our most recent updates! Protip: don't forget to navigate slides left/right **and up/down**.
+We also had our 4th "Industry Updates" segment where I provided a concise overview of some of the major happenings in DevOps and software in general. Check out our slides below for our most recent updates! Protip: don't forget to navigate the slides left/right **and up/down**.
 
 ### Industry Updates slides
 
