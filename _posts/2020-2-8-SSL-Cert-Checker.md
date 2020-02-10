@@ -18,7 +18,7 @@ This is why I created [ssl-cert-checker](https://github.com/mechtron/ssl-cert-ch
 1. Per-hostname configurable check frequency and alert recipients
 1. Audit trail for failed checks
 1. IaC written in Terraform v0.12
-1. All provisioned infrastructure should fit within AWS's Free Tier
+1. All provisioned infrastructure should fit within AWS's free tier
 
 ### Example Notification
 
