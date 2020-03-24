@@ -29,6 +29,9 @@ The [COVID-19 outbreak](https://www.cdc.gov/coronavirus/2019-ncov/index.html){:t
 
 - [Crafty Web Skimming Domain Spoofs “https”](https://krebsonsecurity.com/2020/03/crafty-web-skimming-domain-spoofs-https/){:target="_blank"} by Brian Krebs: KrebsOnSecurity alerted the 10th largest food distributor in the United States that one of its Web sites had been hacked and retrofitted with code that steals credit card and login data.
 
+<p align="center"><img src="{{ site.url }}/images/diu-mar-2020/wireguard.jpg" width="500"></p>
+- [WireGuard Gives Linux a Faster, More Secure VPN](https://www.wired.com/story/wireguard-gives-linux-faster-secure-vpn/){:target="_blank"} by Klint Finley: the virtual private network software from security researcher Jason Donenfeld wins fans with its simplicity and ease of auditing.
+
 ## Amazon Web Services
 
 <p align="center"><img src="{{ site.url }}/images/diu-jan-2020/aws.png" width="400"></p>
@@ -64,7 +67,10 @@ The [COVID-19 outbreak](https://www.cdc.gov/coronavirus/2019-ncov/index.html){:t
 
 ## Programming
 
+<p align="center"><img src="{{ site.url }}/images/diu-mar-2020/rust.png" width="250"></p>
+- [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine){:target="_blank"} by Sujay Jayakar: the sync engine is the magic behind the Dropbox folder on your desktop computer, and it's one of the oldest and most important pieces of code at Dropbox.
+
 <p align="center"><img src="{{ site.url }}/images/diu-mar-2020/github-mobile.jpeg" width="600"></p>
 - [GitHub’s new mobile app is now available on iOS and Android](https://www.theverge.com/2020/3/17/21184254/github-mobile-app-now-available-download-ios-android-microsoft){:target="_blank"} by Jay Peters: (But you can’t edit code on it) GitHub released its new mobile app on March 17th as a free download for iOS and Android.
 
-*Article version: 1.0.0*
+*Article version: 1.1.0*
