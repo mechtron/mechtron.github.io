@@ -43,6 +43,8 @@ google_analytics: UA-92657323-2
 # Used for Sitemap.xml and your RSS feed
 url: https://corey.tech
 
+mailchimp-list: https://tech.us19.list-manage.com/subscribe/post?u=22f5767591b560dd5f0e9ec78&amp;id=e015df64ce
+
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
