@@ -4,6 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
+### `whoami`
+
+Corey Gale
+
 ### Where I work
 
 DevOps Manager @ [GumGum](https://gumgum.com){:target="_blank"}
