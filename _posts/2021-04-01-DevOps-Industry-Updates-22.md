@@ -3,7 +3,7 @@ layout: post
 title: "DevOps Industry Updates #22"
 ---
 
-Welcome back! The world echoed a sigh of relief this week as the Suez Canal was finally unblocked, which I can only imagine feels like purging a thousand message queues at once. With that crisis over, we move on to the next - whether it be upgrading to [Kubernetes 1.21](https://sysdig.com/blog/whats-new-kubernetes-1-21/){:target="_blank"} (yay pod affinities) or [patching your git packages](https://www.openwall.com/lists/oss-security/2021/03/09/3){:target="_blank"} against remote code execution. We have those worries and more - they're all right here in DevOps Industry Updates #22:
+Welcome back! The world echoed a sigh of relief this week as the Suez Canal was finally unblocked, which I can only imagine feels like purging a thousand message queues at once. With that crisis over, we move on to the next - whether it be upgrading to [Kubernetes 1.21](https://sysdig.com/blog/whats-new-kubernetes-1-21/){:target="_blank"} (yay pod affinities) or [patching your git packages](https://www.openwall.com/lists/oss-security/2021/03/09/3){:target="_blank"} against remote code execution. We have those worries and more - it's all right here in DevOps Industry Updates #22:
 
 ## 🔥 Top Cream
 
@@ -72,7 +72,7 @@ This issue's top 5 stories:
 
 - [TLS 1.0 and 1.1 are officially deprecated](https://datatracker.ietf.org/doc/rfc8996/){:target="_blank"}: these versions lack support for current and recommended cryptographic algorithms and mechanisms.
 
-- [A new type of supply-chain attack is flourishing](https://arstechnica.com/gadgets/2021/03/more-top-tier-companies-targeted-by-new-type-of-potentially-serious-attack/){:target="_blank"} by New dependency confusion attacks take aim at Microsoft, Amazon, Slack, Lyft, and Zillow.
+- [A new type of supply-chain attack is flourishing](https://arstechnica.com/gadgets/2021/03/more-top-tier-companies-targeted-by-new-type-of-potentially-serious-attack/){:target="_blank"}: new dependency confusion attacks take aim at Microsoft, Amazon, Slack, Lyft, and Zillow.
 
 
 ## 💻 Programming 
@@ -127,5 +127,4 @@ This issue's top 5 stories:
 - [Amazon VPC Flow Logs now reflects AWS Service name, Traffic Path and Flow Direction](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-flow-logs-now-reflects-aws-service-name-traffic-path-and-flow-direction/){:target="_blank"}
 
 
-
-*Article version: 1.0.0*
+*Article version: 1.0.1*
