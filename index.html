@@ -13,6 +13,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
+        <span class="date">{{ post.date | date: "%m-%d-%Y"}}</span>
         {{ post.excerpt }}
       </div>
 
