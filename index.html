@@ -14,7 +14,15 @@ layout: default
 
       <div class="entry">
         <span class="date">{{ post.date | date: "%m-%d-%Y"}}</span>
+        {% if post.description %}
+        <br/>
+        <br/>
+        {{ post.description }}
+        <br/>
+        <br/>
+        {% else %}
         {{ post.excerpt }}
+        {% endif %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
