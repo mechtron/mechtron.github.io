@@ -3,7 +3,7 @@ layout: post
 title: "DevOps Industry Updates #25"
 ---
 
-25 issues just like that! What started as an update segment at [my Meetup](https://corey.tech/wlad/){:target="_blank"} has turned into something bigger. Thanks to all my loyal readers out there, I've heard you loud and clear: you love the rich technical content and lack of vendor spam. True to that brand, issue #25 is loaded with only the most impactful stories and has a theme of debugging systems at scale, including gPRC, JVM and PostgreSQL. Player ready? Let's go:
+25 issues just like that! What started as an update segment at [my Meetup](https://corey.tech/wlad/){:target="_blank"} has turned into something bigger. Thanks to all my loyal readers out there, I've heard you loud and clear: you love the rich technical content and lack of vendor spam. True to that brand, issue #25 is loaded with only the most impactful stories and has a theme of debugging systems at scale, including gPRC, JVM and PostgreSQL. Ready to open a bunch of new tabs? Here we go:
 
 ## 🔥 Top Cream
 
@@ -139,4 +139,4 @@ This issue's top 4 stories:
 
 
 
-*Article version: 1.0.0*
+*Article version: 1.0.1*
