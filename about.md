@@ -10,8 +10,8 @@ Corey Gale
 
 ### Where I work
 
-Senior Engineering Manager @ [GumGum](https://gumgum.com){:target="_blank"}
-(I lead the DevOps, Data Engineering and BI teams)
+Director of Engineering @ [GumGum](https://gumgum.com){:target="_blank"}
+(I oversee the DevOps, Data Engineering and Business Intelligence teams)
 
 ### Where I used to work
 
@@ -19,11 +19,11 @@ Senior Engineering Manager @ [GumGum](https://gumgum.com){:target="_blank"}
 
 ### Areas of expertise
 
-DevOps-minded process, system design, team building, mentorship, SDLC, cost reduction
+DevOps-minded process, team building, mentorship, SDLC, cost reduction, high-performance distributed systems, vendor relationships
 
 ### Tech I'm passionate about
 
-Unix, Python, Docker, Kubernetes, IaC, ML, robotics, embedded systems
+Unix, Python, Kubernetes, Docker, IaC, AWS, ML, robotics, embedded systems
 
 ### Moto
 
