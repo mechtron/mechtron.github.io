@@ -19,7 +19,7 @@ Is your cloud bill spiraling out of control? Let me analyze your infrastructure 
 
 ### 🤝 Vendor contract negotiation
 
-Secure the best terms and pricing for your technology partnerships. I leverage my industry expertise to negotiate favorable contracts that align with your business goals and budget.
+Secure the best terms and pricing for your technology partnerships. I leverage deep industry expertise to negotiate contracts that align with your goals and budget. From new vendor agreements to renewals and early-renewals, I help you unlock higher discounts, strategic project credits, and favorable terms that reduce risk and maximize business value.
 
 I've negotiated over $150m worth of contracts for the following vendors:
 
@@ -30,8 +30,6 @@ I've negotiated over $150m worth of contracts for the following vendors:
 - Astronomer
 
 And many more.
-
-I can help you better negotiate your new vendor contracts, renewals and early-renewals, including getting higher discounts, strategic project credits and contract terms that help derisk contracts for your business.
 
 ### 🛠️ DevOps & Platform Engineering
 
