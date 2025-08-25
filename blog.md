@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
+title: Blog
+permalink: /blog/
 ---
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-</head>
 
 <div class="posts">
   {% for post in site.posts %}
