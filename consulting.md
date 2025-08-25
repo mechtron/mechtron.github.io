@@ -6,9 +6,6 @@ permalink: /consulting/
 
 Optimize your business operations and maximize your ROI with my expert consulting services. With over 15 years of experience working in startups and enterprises, I specialize in transforming your technology landscape, focusing on key areas that drive efficiency and profitability.
 
-
-**DevOps & Platform Engineering**: Streamline your development lifecycle and enhance collaboration. I help you build robust, scalable, and automated platforms that accelerate innovation and improve system reliability.
-
 # Areas of expertise
 
 ### 💰 Cost reduction
