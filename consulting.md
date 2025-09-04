@@ -33,7 +33,7 @@ And many more.
 
 ### 🛠️ DevOps & Platform Engineering
 
-Systems not scaling for the latest increase in traffic? Scared to hit the deloy button? Flying blind? I can help with that, too.
+Traffic surging, systems failing? Afraid to deploy? Flying blind? I can help with that, too.
 
 Areas of expertise:
 
@@ -47,4 +47,4 @@ Areas of expertise:
 
 # 💬 Let's talk
 
-Interested in my consulting services? Let's discuss your project [coreygale[at]gmail.com](mailto:coreygale@gmail.com)
+Interested in my services? Drop me a line at `coreygale[at]gmail.com`.
