@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #17"
+permalink: /devops-industry-updates-17/
 ---
 
 Welcome back everyone! After a brief holiday break, DevOps Industry Updates is hot off the presses with yet another action-packed issue. From AWS managed Prometheus & Grafana to what is becoming one of the largest security breaches in history (#solarwinds123), be sure to read this one until the end!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #22"
+permalink: /devops-industry-updates-22/
 ---
 
 Welcome back! The world echoed a sigh of relief this week as the Suez Canal was finally unblocked, which I can only imagine feels like purging a thousand message queues at once. With that crisis over, we move on to the next - whether it be upgrading to [Kubernetes 1.21](https://sysdig.com/blog/whats-new-kubernetes-1-21/){:target="_blank"} (yay pod affinities) or [patching your git packages](https://www.openwall.com/lists/oss-security/2021/03/09/3){:target="_blank"} against remote code execution. We have those worries and more - it's all right here in DevOps Industry Updates #22:

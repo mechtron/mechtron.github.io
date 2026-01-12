@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #2"
+permalink: /devops-industry-updates-2/
 ---
 
 Hi everyone, welcome to the 2nd issue of my DevOps Industry Updates newsletter. While there is a lot of turbulence in our world right now, one thing that I think will continue to unite us is our shared passion to build great things.

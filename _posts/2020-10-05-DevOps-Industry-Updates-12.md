@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #12"
+permalink: /devops-industry-updates-12/
 ---
 
 Kubernetes adds structured logs, GCP introduces an ordered message queue (woot) and HashiCorp releases an official Homebrew Tap. The world of DevOps continues to deliver! It has barely been 10 days since the last issue, and we have many new developments to cover:

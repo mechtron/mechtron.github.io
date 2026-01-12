@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Corey's Image Classifier"
+permalink: /coreys-image-classifier/
 ---
 
 As DevOps Engineers, it's absolutely vital that we understand the perspective of the developers we support and the technology they use to implement business solutions. To accomplish things like improved monitoring or finely-tuned auto-scaling, we need to discern the limits and trade-offs of different technologies and the best way to do that, in my opinion, is to build something with them. And that is precisely why I built "Corey's Image Classifier". This project utilizes a wide variety of technology that we use at [GumGum](https://gumgum.com){:target="_blank"} that I personally wanted to gain more hands-on experience with. And today, I am happy to announce that I have [open-sourced it](https://github.com/mechtron/coreys-image-classifier){:target="_blank"}!

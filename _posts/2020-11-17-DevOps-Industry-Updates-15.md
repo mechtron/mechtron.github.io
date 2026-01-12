@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #15"
+permalink: /devops-industry-updates-15/
 ---
 
 The future is here! Apple's new M1 SoC outperforms everything in its class with half the power, Alibaba's robots can replace faulty hard drives in 4 minutes and Amazon has finally released their long-awaited RabbitMQ service. So sit back and get scrolling, DevOps Industry Updates #15 is here:

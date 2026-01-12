@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #11"
+permalink: /devops-industry-updates-11/
 ---
 
 Are your IAM policies overly permissive? Will future data centers be under water? Does the mythical DevOps Engineer really exist? We cover those questions and many other key developments in this issue of DevOps Industry Updates:

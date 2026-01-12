@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #0"
+permalink: /devops-industry-updates-0/
 ---
 
 Welcome to the 4th edition of my DevOps newsletter! You may be wondering why this is issue #0 - I've decided to ditch the monthly format in favor of numbered issues instead. And looking around at other tech newsletters, this seems to be the defacto standard. Under this new numerated format, I'm hoping to publish smaller newsletters, more often.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #13"
+permalink: /devops-industry-updates-13/
 ---
 
 Welcome back to DevOps Industry updates! WFH remains a hot topic in big tech and for the first time in 5 years, HashiCorp introduces not one but two new open-source projects: Boundary and Waypoint. Amazon also released their new time-series database called Timestream and most importantly, we finally now have a way to kill Kubernetes pods with a Doom-like interface. It's all right here in issue #13:

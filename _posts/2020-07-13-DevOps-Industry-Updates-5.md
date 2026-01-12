@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #5"
+permalink: /devops-industry-updates-5/
 ---
 
 Time flies! It's already been a week since my last newsletter and like always, I've been searching the jungles of the internet gathering only the juiciest newsfruit which I've blended together here into what is issue #5 of DevOps Industry Updates:

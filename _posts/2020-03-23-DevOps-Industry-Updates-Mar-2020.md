@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates: March 2020"
+permalink: /devops-industry-updates-march-2020/
 ---
 
 The [COVID-19 outbreak](https://www.cdc.gov/coronavirus/2019-ncov/index.html){:target="_blank"} is now a global pandemic and many of us are now in work from home (WFH) mode. While we learn what it’s really like to be a remote member on our team, DevOps continues to move forward at lightning speeds. Here are some of the most recent updates, perfect reading for taking breaks while WFH:

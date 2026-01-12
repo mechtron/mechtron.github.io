@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #18"
+permalink: /devops-industry-updates-18/
 ---
 
 It's been a busy couple of weeks in DevOps Land! Elastic announced that Elasticsearch and Kibana will be dropping the Apache v2 license, HashiCorp unveiled CDK for Terraform 0.1 (which adds Java and C# support) and LinkedIn showed us just how insane their developer tool metrics are. Great news for you: it's all right here in issue #18 of DevOps Industry Updates:

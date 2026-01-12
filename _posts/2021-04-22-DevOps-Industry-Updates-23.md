@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #23"
+permalink: /devops-industry-updates-23/
 ---
 
 It has already been three weeks since the last issue and a lot has happened! Good news for you, I have been tuned in and I've curated the greatest hits into this, issue #23 of DevOps Industry Updates. Get ready to groove, this one's got bop after bop:

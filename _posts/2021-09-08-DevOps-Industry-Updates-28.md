@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #28: Q3 Hits Edition"
+permalink: /devops-industry-updates-28/
 ---
 
 Welcome back! It's already been nearly 10 weeks since the last edition. As it turns out, having a baby is pretty demanding time-wise, but in between all the play times and diaper changes came this beautiful part of the day called naps. That's when I would catch-up on tech, and I'm glad to present to you a special edition of DevOps Industry Updates that I've been curating. It includes just the most important updates from Q3, so grab your coffee, we have a lot of big hits to cover:

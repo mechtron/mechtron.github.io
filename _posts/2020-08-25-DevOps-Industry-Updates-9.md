@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #9"
+permalink: /devops-industry-updates-9/
 ---
 
 It's been a busy couple of weeks in Containerland! The remote edition of KubeCon Europe was a smashing success, AWS released Controllers for Kubernetes, Kubernetes v1.19 is hot off the presses and Docker Hub surprised us with new rate limits for free users. Grab your coffee, issue #9 of DevOps Industry Updates is here:

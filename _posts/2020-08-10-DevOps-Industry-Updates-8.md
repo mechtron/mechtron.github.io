@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #8"
+permalink: /devops-industry-updates-8/
 ---
 
 Welcome to the 8th edition of DevOps Industry Updates! Just like always, I've been consuming the fire hose of text that we call the media, filtering out the fake news and marketing ploys, leaving only the finest news nuggets. I hope you have your coffee handy, we have a lot to get caught up on:

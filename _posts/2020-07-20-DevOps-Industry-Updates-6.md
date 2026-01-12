@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #6"
+permalink: /devops-industry-updates-6/
 ---
 
 Houston, we have production problems! It's been a busy week in Cloud Operations Land - GitHub went down (again), Twitter experienced a massive security breach of their internal tools and Cloudflare had a 27 minute outage, causing issues for millions of users worldwide. Get your coffee ready, issue #6 of DevOps Industry Updates is here!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SSL Certificate Checker"
+permalink: /ssl-certificate-checker/
 ---
 
 The year is 2020 and we're still forgetting to renew our SSL certificates. Just last week, [Microsoft's failure](https://arstechnica.com/gadgets/2020/02/yesterdays-multi-hour-teams-outage-was-due-to-an-expired-ssl-certificate/){:target="_blank"} to renew a SSL certificate caused 3 hours of downtime for their Teams and Hotmail applications, an oversight that affected 20 million users.

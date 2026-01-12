@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "West LA DevOps #3: Industry Updates & CI/CD Pipeline Best Practices"
+permalink: /wlad-3-industry-updates/
 ---
 
 Tonight [Brian Tai](https://www.linkedin.com/in/briantai35/){:target="_blank"} and I continued our new "Industry Updates" segment where we provided a concise overview of some of the major happenings in DevOps and software in general. Check out our slides below for our most recent updates!

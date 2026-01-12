@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates: January 2020"
+permalink: /devops-industry-updates-january-2020/
 ---
 
 Welcome to 2020! Here are some of the latest industry rumblings:

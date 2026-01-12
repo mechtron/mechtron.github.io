@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #10"
+permalink: /devops-industry-updates-10/
 ---
 
 In this IaC-packed issue of DevOps Industry Updates, we discuss the importance of the 1x Engineer, GitHub's new Container Registry (TL;DR: it could be the new DockerHub) and a whole lot of recent developments in the Terraform community. Grab your coffee, we have some great nuggets to cover:

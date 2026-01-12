@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #7"
+permalink: /devops-industry-updates-7/
 ---
 
 Did somebody say "auto-remediation of configuration drift"? Read all about that and other hot topics (like the miracles of GPT-3 and the woes of DoH) in the 7th issue of DevOps Industry Updates:

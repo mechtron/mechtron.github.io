@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #19"
+permalink: /devops-industry-updates-19/
 ---
 
  Welcome back! Much like your favorite memestock, the world of DevOps has been moving at breakneck speeds. While the InfoSec community is [still realizing the true depths](https://www.wired.com/story/solarwinds-hack-china-usda/){:target="_blank"} of the SolarWinds hack, a new vulnerability with a different attack vector appears: NAT slipstreaming 2.0. We cover those hot topics and other key developments right here in DevOps Industry Updates - all you need to do is scroll ⬇️

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #20"
+permalink: /devops-industry-updates-20/
 ---
 
 In this linux-heavy edition of DevOps Industry Updates, we visit some more advanced `git` features, SSH tunnels, a 24 year old kernel bug and, and on a non-linux note, the earth-shattering emergence of Databricks. It's been an especially busy couple of weeks in the wonderful world of DevOps, but lucky for you, I have all of the best parts right here:

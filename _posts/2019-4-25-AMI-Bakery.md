@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Presenting my ami-bakery tool"
+permalink: /ami-bakery/
 ---
 
 I'm happy to announce that I have open-sourced my tool for building idempotent AMIs in a CI setting. TL;DR: Packer + checksums = 👍

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "DevOps Industry Updates #27: Hiatus Edition"
+title: "DevOps Industry Updates #27: Hiatus Edition"
+permalink: /devops-industry-updates-27/
 ---
 
 Welcome back! Since the last issue, there has been a major development in my personal life. I inherited a new, highly-complex distributed system that's under active development and needs constant attention. In other words, I became a Dad! To make sure I can dedicate the time needed to be the best co-parent possible, I am pausing DevOps Industry Updates for a little while. Stay tuned though, I will be back, and with more original content!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #1"
+permalink: /devops-industry-updates-1/
 ---
 
 It's been only two weeks since the last issue and there's already so much to cover! Besides the usual tech updates, we've seen some [increased M&A activity](https://www.computerworld.com/article/3513439/biggest-technology-acquisitions-2020.html){:target="_blank"} and a growing trend of companies doubling-down/going all-in on their remote working cultures. Without a doubt, our industry is currently undergoing a major transformation and I personally can't wait to see what type of efficiencies can be enacted with the new societal norms that form.

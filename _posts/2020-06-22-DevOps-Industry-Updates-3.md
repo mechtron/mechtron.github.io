@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #3"
+permalink: /devops-industry-updates-3/
 ---
 
 Hi everyone! Since the last issue, I've had my ear to the ground, listening to the latest news, forum posts and mailing lists for the hottest advancements in DevOps and software engineering. Then, I take that firehose of information, filter it just right and distill it into a single, easy-to-consume page that is my DevOps Industry Updates newsletter. Enjoy!

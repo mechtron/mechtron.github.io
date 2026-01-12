@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How GumGum serves its CV at scale"
+permalink: /cv-meetup-talk/
 ---
 
 I had the pleasure of speaking with [Greg Chu](https://www.linkedin.com/in/greghchu/){:target="_blank"} today at the [Los Angeles Computer Vision Meetup](https://www.meetup.com/Los-Angeles-Computer-Vision-Meetup/){:target="_blank"} hosted at GumGum HQ in Santa Monica. We had a great turn-out and I really enjoyed explaining how GumGum auto-scales our CV ML inference systems.

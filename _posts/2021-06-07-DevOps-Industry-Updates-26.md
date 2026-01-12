@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #26"
+permalink: /devops-industry-updates-26/
 ---
 
 Depending where in the world you might be, a return to the office might be right around the corner. Here in Southern California, tech companies are welcoming employees back Labor Day or sooner, which means I have about 3 months to figure out how to fit back into my signature Levi chinos. Do they make shoehorns for pants? I'm starting to sound like my Product team!

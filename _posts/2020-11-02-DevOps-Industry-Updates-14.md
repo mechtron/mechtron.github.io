@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #14"
+permalink: /devops-industry-updates-14/
 ---
 
 Grab your concentrated cold brew, DevOps Industry Updates #14 is here! As always, I've been scouring the internet for the finest DevOps news which I then filter, brew and deliver right to your inbox. In this week's blend: re:Invent 2020 goes virtual, Microsoft expands Azure into space and if you're reading this, then DockerHub's new rate-limits are already in effect. Take a sip, sit back and enjoy the scroll:

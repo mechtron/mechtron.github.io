@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #21"
+permalink: /devops-industry-updates-21/
 ---
 
 Welcome back! If your week has been anything like mine, you've been a little busier than usual and you probably didn't have a lot of time to read the latest DevOps news. Well fear not, DevOps Industry Updates has you covered! Standouts in this issue include GKE who launched two impressive new features (AutoPilot and Multidimensional Pod Autoscaler aka MPA) and some [stellar](https://tailscale.com/blog/modules-monoliths-and-microservices/){:target="_blank"} [essays](https://ably.com/blog/engineering-dependability-and-fault-tolerance-in-a-distributed-system){:target="_blank"} on system design. Player ready? Let's go:

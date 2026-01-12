@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #16"
+permalink: /devops-industry-updates-16/
 ---
 
 AWS re:Invent 2020 is officially underway and we've already seen some alluring new products like Mac EC2 instances, gp3 EBS volumes, public ECR Docker registries (sorry, DockerHub) and a crazy database translation layer called BabelFish.

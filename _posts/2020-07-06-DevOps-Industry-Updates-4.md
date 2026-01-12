@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #4"
+permalink: /devops-industry-updates-4/
 ---
 
 Grab your coffee: the 4th edition of DevOps Industry Updates is here! As always, I've been tracking the latest and greatest developments in DevOps and big software and we have some great nuggets to cover:

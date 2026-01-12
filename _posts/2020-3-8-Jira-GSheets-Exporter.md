@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jira to Google Sheets Exporter"
+permalink: /jira-to-google-sheets-exporter/
 ---
 
 About a month ago, the engineering managers at GumGum were tasked with coming up with ways to visualize our Jira sprint data to answer questions related to things like development velocity and defect rates over time. It soon became obvious that Jira's built-in tools wouldn't cut it and some managers opted to integrate external tools like [Looker](https://looker.com/partner-network/atlassian){:target="_blank"} and [Redash](https://redash.io/help/data-sources/querying/jira){:target="_blank"}. While those tools do have their merits (like user familiarity and beautiful UIs), I wanted a solution that was simpler and *free*.

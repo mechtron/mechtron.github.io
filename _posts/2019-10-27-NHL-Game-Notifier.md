@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NHL Game Notifier"
+permalink: /nhl-game-notifier/
 ---
 
 A couple weeks ago my wife asked me "how can I get notified of my Leaf games before they start, without installing an app?" Like most Software Engineers, my brain immediately started thinking of different solutions and the end result was my latest project: the NHL Game Notifier. This was an especially fun project for me as it combined three of my favourite things in life: hockey (Go Red Wings!), programming and putting a smile on my wife's face.

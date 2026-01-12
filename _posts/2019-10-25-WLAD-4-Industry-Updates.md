@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "West LA DevOps #4: Industry Updates & HashiCorp Talks About Service Meshes"
+permalink: /wlad-4-industry-updates/
 ---
 
 Last night [Brian Tai](https://github.com/btai24){:target="_blank"} and I had the pleasure of hosting HashiCorp at our 4th installment of West LA DevOps hosted at GumGum HQ. We had two speakers from HashiCorp, including our first female speaker [Jasmine Dahilig](https://github.com/jazzyfresh){:target="_blank"} (Software Engineer)! Jasmine's talk was entitled "Dancing with Data and Distributed Systems" and [Jake Lundberg](https://github.com/grove-mountain){:target="_blank"} (Staff Solutions Engineer) also spoke about creating service meshes using Consul.

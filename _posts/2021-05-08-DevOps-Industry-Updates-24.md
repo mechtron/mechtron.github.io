@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DevOps Industry Updates #24"
+permalink: /devops-industry-updates-24/
 ---
 
 Welcome back! It's been a whole Jira sprint since the last newsletter and Mother's Day is right around the corner (this Sunday). If you still haven't obtained anything for your Mom, you can always consider getting her what I got my mom this year: a [Unix Magic Poster](https://jpmens.net/2021/04/09/the-unix-magic-poster/){:target="_blank"} (flowers could work, too). In what might be our most process focused issue yet, we look at release testing, SLIs vs. SLAs vs SLOs, how to ship code faster with feature flags and much more. So grab a seat and get ready to open a bunch of new tabs, it's all here:
