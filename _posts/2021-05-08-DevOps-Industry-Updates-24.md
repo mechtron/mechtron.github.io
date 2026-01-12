@@ -11,7 +11,7 @@ Welcome back! It's been a whole Jira sprint since the last newsletter and Mother
 This issue's top 4 stories:
 
 1. [Release Testing Explained](https://launchdarkly.com/blog/get-a-detailed-explanation-of-release-testing-several/){:target="_blank"}
-1. [My Comprehensive Guide to AWS Cost Control](https://corey.tech/aws-cost/){:target="_blank"}
+1. [My Comprehensive Guide to AWS Cost Control](/aws-cost/){:target="_blank"}
 1. [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/){:target="_blank"}
 1. [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html){:target="_blank"}
 
@@ -126,7 +126,7 @@ This issue's top 4 stories:
 - [EC2 enables replacing root volumes](https://aws.amazon.com/about-aws/whats-new/2021/04/ec2-enables-replacing-root-volumes-for-quick-restoration-and-troubleshooting/){:target="_blank"}: the Replace Root Volume feature enables customers to replace the root volume for a running instance. The feature restores the root volume of an instance to its launch state, or to a specific snapshot, without stopping the instance.
 
 <p align="center"><img src="{{ site.url }}/images/diu-24/aws-cost-control-article.png" width="600"></p>
-- [My Comprehensive Guide to AWS Cost Control](https://corey.tech/aws-cost/){:target="_blank"}: in this article I’m going to walk you through my experience managing AWS costs at GumGum. It has three distinct stages: tracking and understanding costs, using those insights to reduce costs and the risk of making cost-saving changes, and then integrating these cost insights into our processes.
+- [My Comprehensive Guide to AWS Cost Control](/aws-cost/){:target="_blank"}: in this article I'm going to walk you through my experience managing AWS costs at GumGum. It has three distinct stages: tracking and understanding costs, using those insights to reduce costs and the risk of making cost-saving changes, and then integrating these cost insights into our processes.
 
 - [DevOps Guru is now GA with additional capabilities](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-devops-guru-now-generally-available-with-additional-capabilities/){:target="_blank"}: for the sake of our jobs, let's all agree to never speak about this service again.
 
