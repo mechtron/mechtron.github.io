@@ -20,37 +20,7 @@
    - Go to Actions tab to see deployment progress
    - Site will be live at `https://mechtron.github.io` (or your custom domain)
 
-### Option 2: Netlify
-
-1. Go to [Netlify](https://netlify.com)
-2. Click "Add new site" → "Import an existing project"
-3. Connect your GitHub repository
-4. Build settings:
-   - Build command: (leave empty)
-   - Publish directory: `/` (root)
-5. Deploy!
-
-### Option 3: Vercel
-
-1. Go to [Vercel](https://vercel.com)
-2. Click "Add New Project"
-3. Import your GitHub repository
-4. Framework preset: "Other"
-5. Deploy!
-
-### Option 4: Cloudflare Pages
-
-1. Go to Cloudflare Dashboard → Pages
-2. Create a project → Connect to Git
-3. Select your repository
-4. Build settings:
-   - Build command: (leave empty)
-   - Build output directory: `/`
-5. Deploy!
-
-## Custom Domain Setup
-
-### For GitHub Pages:
+## Custom Domain Setup For GitHub Pages
 
 1. Create/update `CNAME` file in root:
    ```
@@ -65,10 +35,6 @@
 
 3. Wait for DNS propagation (can take up to 24 hours)
 
-### For Other Hosts:
-
-Follow their specific DNS configuration guides. Most will provide you with a CNAME or A record to add.
-
 ## Testing Locally
 
 ```bash
@@ -77,9 +43,6 @@ python3 -m http.server 8000
 
 # Using Node.js (if you have http-server installed)
 npx http-server -p 8000
-
-# Using PHP
-php -S localhost:8000
 ```
 
 Then visit `http://localhost:8000`
@@ -121,9 +84,3 @@ Then visit `http://localhost:8000`
    ```
 
 2. Ensure the blog post HTML exists (or create it)
-
-## Performance Tips
-
-- Images: Optimize images before uploading
-- Minification: Consider minifying CSS/JS for production (optional)
-- CDN: Use a CDN for faster global delivery (built into most hosting platforms)

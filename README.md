@@ -4,12 +4,11 @@ Modern, lightweight portfolio website for Corey Gale - Engineering Leader, DevOp
 
 ## Features
 
-- 🎨 **Three Visual Themes**: Choose from Terminal/Cyberpunk, Glassmorphism, or Gradient Tech aesthetics
+- 🌓 **Light/Dark Mode**: Toggle between dark terminal aesthetic and clean light mode with localStorage persistence
 - 📱 **Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - ⚡ **Lightweight**: Pure HTML, CSS, and JavaScript - no build process required
 - 🚀 **Easy Updates**: Simple file-based structure, easy to maintain
-- 📝 **Blog Archive**: Complete archive of DevOps Industry Updates newsletter
-- 🎯 **Focus Areas**: Skills, consulting services, side projects
+- 📝 **Blog Archive**: Complete archive of DevOps Industry Updates newsletter (2019-2021)
 
 ## Structure
 
@@ -58,25 +57,6 @@ Modern, lightweight portfolio website for Corey Gale - Engineering Leader, DevOp
 3. Your site will be available at:
    - `https://mechtron.github.io` (or your custom domain)
 
-### Other Hosting Options
-
-#### Netlify (Free Tier)
-1. Connect your GitHub repository
-2. Build command: (leave empty - static site)
-3. Publish directory: `/` (root)
-4. Deploy!
-
-#### Vercel (Free Tier)
-1. Import your GitHub repository
-2. Framework preset: Other
-3. Deploy!
-
-#### Cloudflare Pages (Free Tier)
-1. Connect your GitHub repository
-2. Build command: (leave empty)
-3. Build output directory: `/`
-4. Deploy!
-
 ## Customization
 
 ### Changing Themes
@@ -90,10 +70,6 @@ The site includes three pre-built themes. To switch themes:
 - **Skills**: Edit the `skills-grid` section in `index.html`
 - **Projects**: Add new project cards in the `projects-grid` section
 - **Blog Posts**: Update the `blogPosts` array in `js/blog.js`
-
-### Theme Customization
-
-Edit `css/themes.css` to modify colors, fonts, and styling for each theme.
 
 ## Blog Posts
 
@@ -114,19 +90,6 @@ To use a custom domain (e.g., corey.tech):
    - For GitHub Pages: Add CNAME record pointing to `mechtron.github.io`
    - For other hosts: Follow their DNS configuration guide
 
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
 ## License
 
 See LICENSE file for details.
-
-## Contact
-
-- Email: coreygale[at]gmail.com
-- GitHub: [@mechtron](https://github.com/mechtron)
-- LinkedIn: [coreyjgale](https://linkedin.com/in/coreyjgale)
