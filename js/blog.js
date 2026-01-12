@@ -6,7 +6,7 @@ const blogPosts = [
     { id: '2021-06-07-DevOps-Industry-Updates-26', title: 'DevOps Industry Updates #26', date: '2021-06-07', category: 'diu', url: '/devops-industry-updates-26/' },
     { id: '2021-05-23-DevOps-Industry-Updates-25', title: 'DevOps Industry Updates #25', date: '2021-05-23', category: 'diu', url: '/devops-industry-updates-25/' },
     { id: '2021-05-08-DevOps-Industry-Updates-24', title: 'DevOps Industry Updates #24', date: '2021-05-08', category: 'diu', url: '/devops-industry-updates-24/' },
-    { id: '2021-04-26-AWS-Cost', title: 'AWS Cost', date: '2021-04-26', category: 'project', url: '/aws-cost/' },
+    { id: '2021-04-26-AWS-Cost', title: 'My Comprehensive Guide to AWS Cost Control', date: '2021-04-26', category: 'project', url: '/aws-cost/' },
     { id: '2021-04-22-DevOps-Industry-Updates-23', title: 'DevOps Industry Updates #23', date: '2021-04-22', category: 'diu', url: '/devops-industry-updates-23/' },
     { id: '2021-04-01-DevOps-Industry-Updates-22', title: 'DevOps Industry Updates #22', date: '2021-04-01', category: 'diu', url: '/devops-industry-updates-22/' },
     { id: '2021-03-11-DevOps-Industry-Updates-21', title: 'DevOps Industry Updates #21', date: '2021-03-11', category: 'diu', url: '/devops-industry-updates-21/' },
@@ -42,7 +42,7 @@ const blogPosts = [
     { id: '2019-8-29-WLAD-3-Industry-Updates', title: 'WLAD #3 Industry Updates', date: '2019-08-29', category: 'diu', url: '/wlad-3-industry-updates/' },
     { id: '2019-6-13-WLAD-2-Industry-Updates', title: 'WLAD #2 Industry Updates', date: '2019-06-13', category: 'diu', url: '/wlad-2-industry-updates/' },
     { id: '2019-5-28-CV-Meetup-Talk', title: 'CV Meetup Talk', date: '2019-05-28', category: 'project', url: '/cv-meetup-talk/' },
-    { id: '2019-4-25-AMI-Bakery', title: 'Presenting my ami-bakery tool', date: '2019-04-25', category: 'project', url: '/ami-bakery/' }
+    { id: '2019-4-25-AMI-Bakery', title: 'My AMI Bakery tool', date: '2019-04-25', category: 'project', url: '/ami-bakery/' }
 ];
 
 // Initialize blog
